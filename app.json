@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "VAJIRA-MD=3ctmHS7T#f7RLWeou9qrSYf2C_zbhdfWn7x4RtEGcmVTuroSDr1k",
+            "description": "plzz put the id",
             "required": true,
             "value": "VAJIRA-MD=3ctmHS7T#f7RLWeou9qrSYf2C_zbhdfWn7x4RtEGcmVTuroSDr1k"
         },
