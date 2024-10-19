@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR / ඔබට ආපු කොඩය මෙතන්ට දමන්න",
+            "description": "VAJIRA-MD=3ctmHS7T#f7RLWeou9qrSYf2C_zbhdfWn7x4RtEGcmVTuroSDr1k",
             "required": true,
             "value": "put session id here"
         },
@@ -22,7 +22,7 @@
             "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
         },
     "OWNER_NUMBER": {
-            "description": "Put Your Number Here",
+            "description": "+94 70 280 7626",
             "required": true,
             "value": ""
 }
